@@ -1,6 +1,5 @@
 # Harley Marlon Labbe
-![photo](exercices_sem01
-/harley.jpg)
+![image sélection nom du fichier](exercices_sem01/harley.jpg)
 
 Photo de moi à New York, Time Squares, 21 avril 2024
 
