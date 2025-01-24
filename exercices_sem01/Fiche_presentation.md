@@ -1,5 +1,6 @@
 # Harley Marlon Labbe
-![image sélection nom du fichier](exercices_sem01/harley.jpg)
+
+![harley](https://github.com/user-attachments/assets/c1eb9fb2-b411-489a-98d0-2bf856c59755)
 
 Photo de moi à New York, Time Squares, 21 avril 2024
 
@@ -11,7 +12,7 @@ Tout ce qui est l'animation des animés, des jeux-vidéos ou meme des dessins an
 Voici un exemple concret de l'un de mes objectifs de compétences,
 À consulter ici : https://www.youtube.com/watch?v=GKmxCdwQf8c
 
-![photo]()
+![miles](https://github.com/user-attachments/assets/6e30dd67-d3fa-41a7-afcc-68a55cad4c32)
 
 Photo de la page Youtube si-dessus, SPIDER-MAN: INTO THE SPIDER-VERSE - Animating Miles
 
@@ -22,6 +23,10 @@ Ce qui me plait c'est le fais que l'on peut apprendre comment diffuser nos proje
 Voici un exemple très minime des compétences en animations 2D que je souhaite apprendre à faire et de ce que j'aime beaucoup dans le multimédia
 
 À consulter ici : https://www.youtube.com/watch?v=2OG5_jCj2Zc
+
+![isagi](https://github.com/user-attachments/assets/4ddac7dd-8840-4101-b5e7-f4bee5d2bbd0)
+
+Photo de la page Youtube si-dessus, Isagi Two Gun Volley | Fan animation
 
 
 
