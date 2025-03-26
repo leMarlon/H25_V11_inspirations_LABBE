@@ -71,7 +71,7 @@ Dès l'entrée dans le tunnel, une ambiance mystique m'envahit. Les projections 
 
 ## Ce qui vous a plu
 
-J'ai été conquis par la qualité sensorielle de l'oeuvre : visuelle, sonore, tactile. L'interactivité est subtile mais présente. La frontière entre technologie et nature y est brouillée, et l'on ressent un véritable apaisement à "vivre" ce dispositif. Une réussite poétique et immersive.
+J'ai été surpris par la qualité sensorielle de l'oeuvre : visuelle, sonore, tactile. L'interactivité est subtile mais présente. L'originalité est surprenante, et en plus mettre cette idée en place, c'est incroyable. Une réussite poétique et immersive.
 
 ## Références
 
