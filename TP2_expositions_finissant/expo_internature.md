@@ -17,7 +17,8 @@ Photo de l'installation "Internature" - Source : Visite personnelle, mars 2025
 
 En son centre, un dispositif de détection et d'interaction est disposé : une sorte de totem en bois et fleurs, avec capteurs, lumières et parfois même un ballon comme interface. Ce noyau interactif communique avec l'environnement projeté, modifiant les formes, les couleurs ou les dynamiques visuelles projetées.
 
-![Photo dispositif](medias/internature_4.JPG)
+![internature_v1](https://github.com/user-attachments/assets/5f320c9e-fd15-4845-978d-14cde065f505)
+
 
 *Totem interactif de l'oeuvre Internature - photo personnelle, mars 2025*
 
@@ -34,7 +35,14 @@ L'oeuvre est disposée dans une pièce sombre, créant une bulle visuelle. Le tu
 
 https://github.com/user-attachments/assets/33cb11ac-19ae-41fc-8bd3-794f6a86edcd
 
+*Totem interactif de l'oeuvre Internature - photo personnelle, mars 2025*
 
+## Plantation
+
+![internature_plantation](https://github.com/user-attachments/assets/ef9b0f6f-67c4-4a41-8509-786736f42df4)
+
+
+*Totem interactif de l'oeuvre Internature - photo personnelle, mars 2025*
 
 ## Composantes et techniques
 
