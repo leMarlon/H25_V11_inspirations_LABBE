@@ -1,6 +1,7 @@
 # Fiche de l'oeuvre : Internature
 
-![Image de l'expo](medias/internature1.JPG)
+![internature_4](https://github.com/user-attachments/assets/c711e691-8774-423c-89a1-b453aab0ba8d)
+
 
 Photo de l'installation "Internature" - Source : Visite personnelle, mars 2025
 
@@ -20,7 +21,7 @@ En son centre, un dispositif de détection et d'interaction est disposé : une s
 ![internature_v1](https://github.com/user-attachments/assets/5f320c9e-fd15-4845-978d-14cde065f505)
 
 
-*Totem interactif de l'oeuvre Internature - photo personnelle, mars 2025*
+*Totem interactif de l'oeuvre Internature - Photo du site web officiel de l'oeuvre : https://tprangers.github.io/internature/#/ , mars 2025*
 
 ## Type d'installation
 
@@ -42,7 +43,7 @@ https://github.com/user-attachments/assets/33cb11ac-19ae-41fc-8bd3-794f6a86edcd
 ![internature_plantation](https://github.com/user-attachments/assets/ef9b0f6f-67c4-4a41-8509-786736f42df4)
 
 
-*Totem interactif de l'oeuvre Internature - photo personnelle, mars 2025*
+*Totem interactif de l'oeuvre Internature - Photo du site web officiel de l'oeuvre : https://tprangers.github.io/internature/#/ , mars 2025*
 
 ## Composantes et techniques
 
