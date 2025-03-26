@@ -31,7 +31,10 @@ Les visiteurs peuvent déambuler dans le tunnel, observer, toucher, interagir av
 
 L'oeuvre est disposée dans une pièce sombre, créant une bulle visuelle. Le tunnel semi-transparent permet une projection à 360 degrés, tout en dirigeant les visiteurs vers le coeur interactif. L'espace est fluide, propice à l'exploration libre, à la contemplation et à l'éveil sensoriel.
 
-[![Vidéo de la mise en espace](medias/internature_v1.MOV)](medias/internature_v1.MOV)
+
+https://github.com/user-attachments/assets/33cb11ac-19ae-41fc-8bd3-794f6a86edcd
+
+
 
 ## Composantes et techniques
 
