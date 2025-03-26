@@ -3,7 +3,7 @@
 ![internature_4](https://github.com/user-attachments/assets/c711e691-8774-423c-89a1-b453aab0ba8d)
 
 
-Photo de l'installation "Internature" - Source : Visite personnelle, mars 2025
+Photo de l'installation "Internature" - Source : Photo personnelle, mars 2025
 
 ## Informations générales
 
