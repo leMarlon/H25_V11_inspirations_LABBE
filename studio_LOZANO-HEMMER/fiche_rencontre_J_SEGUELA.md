@@ -1,22 +1,19 @@
-# Artiste ou Fou ?
-## Introduction
+# Jade Séguela ?
 
-Le mardi 25 mars 2025 j'ai été à la conférence de Jade Séguela, registraire au studio Rafael Lozano-Hemmer. Cette conférence a traité de différents aspects des oeuvres du studio (la conception, la production, l'opération et la conservation).
+## 
+Le mardi 25 mars 2025, j’ai assisté à une conférence donnée par Jade Séguela, registraire au sein du studio de l’artiste Rafael Lozano-Hemmer. L’événement portait sur le fonctionnement du studio, en abordant plusieurs dimensions : de la création des œuvres à leur préservation, en passant par la production et l’exploitation.
 
-## Présentation du studio
+##
+Jade Séguela a d’abord partagé le parcours de Rafael Lozano-Hemmer, figure emblématique de l’art numérique. Elle a ensuite expliqué son propre rôle au sein du studio, qui inclut la gestion logistique des œuvres, la coordination des installations et la supervision des équipements.
 
-En premier lieu, la conférencière a discutée de l'histoire de Rafael Lozano-Hemmer et son parcours à elle ainsi que ses responsabilités (aider à l'installation, gérer les caisses, etc.)
+## Bach*  
+L'une des œuvres présentées, *Sphere Packing : Bach*, plonge le spectateur dans une sphère tapissée de plus de 1000 haut-parleurs. À l’intérieur, toutes les compositions de Johann Sebastian Bach sont diffusées en simultané, créant une expérience sonore dense et unique.
 
-## Présentation de Sphere Packing : Back
+## *Shadow Tuner*  
+Autre pièce impressionnante : *Shadow Tuner*, une installation monumentale en forme de globe terrestre de 25 mètres de haut. Ce ballon rotatif projette une ombre, et lorsqu’un visiteur la traverse au niveau d’une ville, un extrait de la radio locale de cet endroit se met à jouer. L'œuvre a été exposée sur une île des Émirats Arabes Unis, un lieu où les conditions climatiques extrêmes (sable, vent, humidité) posent de réels défis pour la conservation.
 
-En deuxième lieu, «Sphere Packing : Bach» est une oeuvre où l'utilisateur va à l'intérieur d'une sphère avec plus de 1000 hauts-parleurs pour faire jouer toutes les compositions du fameux compositeur Johann Sebastian Bach simultanément.
+## 
 
-## Présentation de Shadow Tuner
+Dans l’ensemble, j’ai trouvé la présentation captivante et bien structurée. Jade Séguela a su présenter les œuvres avec clarté et enthousiasme. Malgré tout, je ne me suis pas senti particulièrement attiré par le travail du studio, et la conférence n’a pas changé ma perception à ce sujet.
 
-En troisième lieu «Shadow Tuner» est une oeuvre énormément ambitieuse, il y a un ballon de 25m de hauteur qui représente un globe tournant sur lui-même et puis, lorsque l'ombre de l'utilisateur passe sur une ville, un extrait de radio local de la ville en question va jouer. Elle a été exposée sur une île aux Émirats Arabes Unis, venant avec ses propres risques de conservation (corrosion, sable, vent, etc.).
-
-## Conclusion
-
-Au final, j'ai bien apprécié la conférence vu qu'elle était bien structurée, elle allait droit au clair et elle était captivante. Cependant je ne pense pas que le studio m'intéresse en tant que tel, et je ne pense pas que la conférencière à vraiment réussit à me convaincre du contraire.
-
-![image](./images/shadow_tuner.jpg)
+![Shadow Tuner](./images/shadow_tuner.jpg)
