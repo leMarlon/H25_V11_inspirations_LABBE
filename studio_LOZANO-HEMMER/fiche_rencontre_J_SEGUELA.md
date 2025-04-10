@@ -1,10 +1,22 @@
-# Logistique et exposition d’une œuvre multimédiatique
+# Artiste ou Fou ?
+## Introduction
 
-## Présentation
+Le mardi 25 mars 2025 j'ai été à la conférence de Jade Séguela, registraire au studio Rafael Lozano-Hemmer. Cette conférence a traité de différents aspects des oeuvres du studio (la conception, la production, l'opération et la conservation).
 
-Lors d’une conférence tenue au Collège Montmorency, Jade Séguela a partagé les étapes de préparation liées à l’exposition d’une œuvre numérique de grande envergure réalisée par Rafael Lozano-Hemmer. Elle a tout d’abord expliqué les solutions techniques et logistiques adoptées pour assurer le transport ainsi que l’entreposage de l’installation. L’une des stratégies principales consiste à utiliser des caisses en bois fabriquées sur mesure, permettant de diviser l’œuvre en neuf parties séparées. Cette approche assure une meilleure protection de chaque section et facilite leur passage à travers des ouvertures parfois étroites.
+## Présentation du studio
 
-Par la suite, Jade a exposé le fonctionnement du système de « packing » mis en œuvre. Chaque boîte, clairement identifiée par un numéro, est répertoriée dans une base de données conçue spécialement pour suivre avec précision le contenu de chacune — qu’il s’agisse de vis, de câbles ou d’autres éléments techniques essentiels. Ce suivi méticuleux est crucial pour éviter les pertes ou les dommages lors du transport, notamment durant le passage en douane, surtout lorsque l’œuvre doit voyager sur de longues distances, comme lors d’un envoi maritime entre la Floride et Istanbul. Elle a également souligné que ce processus rigoureux de préparation et de contrôle a permis d’effectuer près de 100 expéditions en l’espace d’un an, démontrant ainsi la fiabilité et l’efficacité du système adopté.
+En premier lieu, la conférencière a discutée de l'histoire de Rafael Lozano-Hemmer et son parcours à elle ainsi que ses responsabilités (aider à l'installation, gérer les caisses, etc.)
+
+## Présentation de Sphere Packing : Back
+
+En deuxième lieu, «Sphere Packing : Bach» est une oeuvre où l'utilisateur va à l'intérieur d'une sphère avec plus de 1000 hauts-parleurs pour faire jouer toutes les compositions du fameux compositeur Johann Sebastian Bach simultanément.
+
+## Présentation de Shadow Tuner
+
+En troisième lieu «Shadow Tuner» est une oeuvre énormément ambitieuse, il y a un ballon de 25m de hauteur qui représente un globe tournant sur lui-même et puis, lorsque l'ombre de l'utilisateur passe sur une ville, un extrait de radio local de la ville en question va jouer. Elle a été exposée sur une île aux Émirats Arabes Unis, venant avec ses propres risques de conservation (corrosion, sable, vent, etc.).
 
 ## Conclusion
-En somme, la conférence a mis en lumière le rôle essentiel de la logistique dans la mise en place d’expositions d’œuvres numériques complexes. Elle a révélé que la réussite d’une installation repose sur l’attention portée à chaque aspect technique et organisationnel, et qu’une planification rigoureuse est fondamentale pour garantir l’intégrité et la fidélité de toute création artistique.
+
+Au final, j'ai bien apprécié la conférence vu qu'elle était bien structurée, elle allait droit au clair et elle était captivante. Cependant je ne pense pas que le studio m'intéresse en tant que tel, et je ne pense pas que la conférencière à vraiment réussit à me convaincre du contraire.
+
+![image](./images/shadow_tuner.jpg)
