@@ -16,4 +16,4 @@ Autre pièce impressionnante : *Shadow Tuner*, une installation monumentale en f
 
 Dans l’ensemble, j’ai trouvé la présentation captivante et bien structurée. Jade Séguela a su présenter les œuvres avec clarté et enthousiasme. Malgré tout, je ne me suis pas senti particulièrement attiré par le travail du studio, et la conférence n’a pas changé ma perception à ce sujet.
 
-![Shadow Tuner](./images/shadow_tuner.jpg)
+
