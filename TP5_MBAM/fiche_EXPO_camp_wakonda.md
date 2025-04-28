@@ -14,20 +14,20 @@
 - **Année :** 2013
 - **Série :** Secret Citadel
 
-![Cartel de l'œuvre](./images/camp_wakonda_cartel.jpg)
+![Cartel de l'œuvre](./images/camp_wakonda_(1).jpg)
 
 ### Description
 
 Camp Wakonda explore les thèmes de la nostalgie, de la perte et de la résilience à travers des scènes miniatures et des animations stop-motion. L'installation représente la rupture d'une amitié entre deux personnages après un accident, symbolisant le passage de l'enfance à l'âge adulte.
 
-![Vue d'ensemble](./images/camp_wakonda_vue_ensemble.jpg)
+![Vue d'ensemble](./images/camp_wakonda_(4).jpg)
 
 ### Type d'installation
 
 - Immersive
 - Contemplative
 
-![Maison miniature et bus scolaire](./images/camp_wakonda_detail_1.jpg)
+![Maison miniature et bus scolaire](./images/camp_wakonda(2).jpg)
 
 ### Mise en espace
 
@@ -64,7 +64,10 @@ L'œuvre occupe une salle sombre avec plusieurs structures miniatures placées s
 
 L'installation invite à une exploration détaillée, renforcée par des vidéos en stop-motion apportant une dimension narrative et émotionnelle.
 
-[Vidéo de l'expérience](./videos/camp_wakonda.mp4)
+
+
+https://github.com/user-attachments/assets/c4ef08bc-3227-46e9-b2a0-be894083de7b
+
 
 ### Appréciation personnelle
 
