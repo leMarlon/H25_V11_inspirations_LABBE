@@ -33,10 +33,19 @@ Chaque espace évoque la légèreté, la suspension, la fluidité.
 *Vue du plafond interactif – formes aquatiques/méduses lumineuses projetées*
 
 🎥 Vidéos prises sur place :  
-- [Vidéo 1](./medias/videos/oasis_apesenteur.mp4)  
-- [Vidéo 2](./medias/videos/oasis_apesenteur (2).mp4)  
-- [Vidéo 3](./medias/videos/oasis_apesenteur (3).mp4)  
-- [Vidéo officielle de l'exposition (YouTube)](https://www.youtube.com/watch?v=ce_KIcBHrtY)
+
+
+https://github.com/user-attachments/assets/10be9764-091d-4191-95ad-ae8dfe651c0c
+
+
+https://github.com/user-attachments/assets/38c7b76b-425d-45c8-bad4-6174263fa561
+
+
+https://github.com/user-attachments/assets/c304b846-c0f6-4e36-a42b-14ad8e1896d3
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ce_KIcBHrtY/0.jpg)](](https://www.youtube.com/watch?v=ce_KIcBHrtY))
+
+
 
 ---
 
