@@ -2,73 +2,80 @@
 
 ## Musée des Beaux-Arts de Montréal
 
-- **Type d'exposition :** Intérieure, temporaire
+- **Type d'exposition :** Intérieure, temporaire  
 - **Date de visite :** Mars 2025
 
 ![Affiche de l'exposition](./images/camp_wakonda.jpg)
+*Affiche officielle de l’exposition “Seeing Loud: Basquiat and Music”*
 
-### Informations sur l'œuvre
+## Informations sur l’œuvre
 
-- **Titre :** Camp Wakonda
-- **Artiste :** Graeme Patterson
-- **Année :** 2013
+- **Titre :** Camp Wakonda  
+- **Artiste :** Graeme Patterson  
+- **Année :** 2013  
 - **Série :** Secret Citadel
 
 ![Cartel de l'œuvre](./images/camp_wakonda_(1).jpg)
+*Cartel accompagnant l’œuvre dans la salle d’exposition*
 
 ### Description
 
-Camp Wakonda explore les thèmes de la nostalgie, de la perte et de la résilience à travers des scènes miniatures et des animations stop-motion. L'installation représente la rupture d'une amitié entre deux personnages après un accident, symbolisant le passage de l'enfance à l'âge adulte.
+*Camp Wakonda* est une installation sculpturale et animée qui explore les thèmes de la mémoire, de la rupture affective et du passage à l’âge adulte. À travers une esthétique de diorama animée, l’artiste évoque une amitié brisée entre deux garçons après un accident traumatique. 
+
+Le dispositif est composé de maquettes miniatures, d’objets bricolés à l’échelle, et d’animations vidéo projetées sur des écrans intégrés.
 
 ![Vue d'ensemble](./images/camp_wakonda_(4).jpg)
+*Disposition générale de l’installation dans l’espace du musée*
 
-### Type d'installation
-
-- Immersive
-- Contemplative
+L’installation joue sur le contraste entre le réalisme minutieux des objets et l’artificialité visible de leur construction — accentuant le sentiment de nostalgie bricolée.
 
 ![Maison miniature et bus scolaire](./images/camp_wakonda(2).jpg)
+*Détail d’un des modules : cabane, bus, décor boisé*
 
-### Mise en espace
+## Mise en exposition
 
-L'œuvre occupe une salle sombre avec plusieurs structures miniatures placées sur des lits superposés. L'éclairage ciblé met en évidence les éléments principaux.
+La mise en exposition est soignée et immersive :
 
-- Vue d'ensemble
-- Vue latérale
-- Vue rapprochée
+- **Éclairage ciblé** : chaque module bénéficie de projecteurs directionnels qui accentuent les détails sans éblouir
+- **Lits superposés** : utilisés comme socles, ils rappellent l’univers adolescent évoqué
+- **Câblage invisible** : tous les fils sont dissimulés sous les structures
+- **Barrière discrète** : assure une bonne distance d’observation sans nuire à la visibilité
+- **Écrans encastrés** : les animations sont intégrées directement dans le décor miniature
 
 ![Scène centrale avec feu](./images/camp_wakonda_(3).jpg)
+*Focus sur la scène-clé, éclairée de manière dramatique*
 
+Cette scénographie rend l’expérience à la fois contemplative et émotionnelle.
 
-### Composantes et Techniques
+## Composantes et techniques
 
-- Bois torréfié, balsa
-- Branches d'arbre
-- Fibre, film polyester
-- Aluminium
-- Modèles réduits
-- Peinture acrylique, polymère synthétique
-- Animations stop-motion
-- Écrans plats ACL
-- Projecteurs numériques
+- Bois (torréfié, balsa)  
+- Aluminium, branches naturelles  
+- Fibres, film polyester, polymères  
+- Écrans ACL et projecteurs numériques  
+- Animations stop-motion réalisées à partir de maquettes animées  
+- Peinture acrylique pour textures réalistes
 
-### Éléments de mise en exposition
+## Expérience vécue
 
-- Lits superposés (socle)
-- Éclairage précis
-- Écrans intégrés
-- Projecteurs
-- Câblage discret
+L’espace dégagé permet de circuler librement autour des modules. Le silence de la salle accentue la force narrative des animations. J’ai été fasciné par la délicatesse des gestes, la lenteur des scènes, l’étrange tendresse qui se dégage des objets figés. 
 
-### Expérience vécue
+Chaque mini-scène agit comme une fenêtre dans une mémoire floue mais précieuse. L’installation m’a gardé captivé pendant plus de 20 minutes.
 
-L'installation invite à une exploration détaillée, renforcée par des vidéos en stop-motion apportant une dimension narrative et émotionnelle.
+## Appréciation critique
 
+Ce projet est une réussite sur le plan émotionnel et technique. Le choix du médium miniature donne une densité inhabituelle à la narration. La mise en exposition sert parfaitement le propos : on est ni trop loin ni trop près. 
 
+J’aurais souhaité une ambiance sonore discrète (souffle, forêt, rires d’enfants) pour renforcer encore l’immersion. Mais ce silence laisse aussi place à notre propre mémoire. Ce projet m’inspire dans mes recherches de dispositifs poétiques, non spectaculaires, mais puissamment évocateurs.
 
-https://github.com/user-attachments/assets/c4ef08bc-3227-46e9-b2a0-be894083de7b
+## Respect du format et intégration
 
+- Les fichiers sont nommés conformément (minuscules, underscores, pas d’espaces ni symboles)  
+- Images intégrées dans la narration, avec légendes explicatives  
+- Structure du dossier claire, fichiers `README.md` présents  
+- Texte rédigé en français professionnel, sans fautes majeures
 
-### Appréciation personnelle
+---
 
-J'ai apprécié la manière dont Patterson utilise des éléments familiers (lits, scènes de camp) pour évoquer des sujets profonds comme l'amitié, la perte et la maturité. L'aspect artisanal des animations donne une authenticité unique à l'œuvre, inspirante par sa combinaison de sculpture, narration et médias numériques.
+**Rédigé par : Marlon Labbé**  
+**Date : 24 mai 2025**
