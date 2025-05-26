@@ -2,7 +2,7 @@
 
 ![Vue d’ensemble de l’œuvre](./medias/images/oasis_apesenteur.png)
 
-*Vue de l'une des salles immersives du parcours « Apesanteur »*
+*Photo de l'une des salles immersives du parcours « Apesanteur - Source : Photo personnelle, avril 2025*
 
 ## OASIS immersion (Palais des Congrès de Montréal)
 
@@ -11,7 +11,7 @@ Lien vers l’exposition officielle : [https://oasis.im/apesanteur/](https://oas
 
 ![Photo personnelle devant l'œuvre](./medias/images/trust.jpg)
 
-*Moi-même, à l'intérieur de l'installation lumineuse d’OASIS Apesanteur*
+*Photo de moi-même, à l'intérieur de l'installation lumineuse d’OASIS Apesanteur - Source : Photo personnelle, avril 2025* 
 
 ## Description de l'œuvre immersive
 
@@ -26,11 +26,10 @@ Chaque espace évoque la légèreté, la suspension, la fluidité.
 
 ![Salle des projections pluie](./medias/images/oasis_apesenteur(1).png)
 
-*Effets visuels simulant une pluie lumineuse descendant des murs*
-
+*Effets visuels simulant une pluie lumineuse descendant des murs  - Source : Photo personnelle, avril 2025*
 ![Méduses et effets circulaires](./medias/images/oasis_apesenteur.png)
 
-*Vue du plafond interactif – formes aquatiques/méduses lumineuses projetées*
+*Vue du plafond interactif – formes aquatiques/méduses lumineuses projetées - Source : Photo personnelle, avril 2025*
 
 🎥 Vidéos prises sur place :  
 
