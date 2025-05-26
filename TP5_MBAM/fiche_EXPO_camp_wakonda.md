@@ -6,7 +6,7 @@
 - **Date de visite :** Mars 2025
 
 ![Affiche de l'exposition](./images/camp_wakonda.jpg)
-*Affiche officielle de l’exposition “Seeing Loud: Basquiat and Music”*
+*Affiche officielle de l’exposition “Seeing Loud: Basquiat and Music” - Source : Photo personnelle, avril 2025*
 
 ## Informations sur l’œuvre
 
@@ -25,12 +25,12 @@
 Le dispositif est composé de maquettes miniatures, d’objets bricolés à l’échelle, et d’animations vidéo projetées sur des écrans intégrés.
 
 ![Vue d'ensemble](./images/camp_wakonda_(4).jpg)
-*Disposition générale de l’installation dans l’espace du musée*
+*Disposition générale de l’installation dans l’espace du musée - Source : Photo personnelle, avril 2025*
 
 L’installation joue sur le contraste entre le réalisme minutieux des objets et l’artificialité visible de leur construction — accentuant le sentiment de nostalgie bricolée.
 
 ![Maison miniature et bus scolaire](./images/camp_wakonda(2).jpg)
-*Détail d’un des modules : cabane, bus, décor boisé*
+*Détail d’un des modules : cabane, bus, décor boisé - Source : Photo personnelle, avril 2025*
 
 ## Mise en exposition
 
@@ -43,7 +43,7 @@ La mise en exposition est soignée et immersive :
 - **Écrans encastrés** : les animations sont intégrées directement dans le décor miniature
 
 ![Scène centrale avec feu](./images/camp_wakonda_(3).jpg)
-*Focus sur la scène-clé, éclairée de manière dramatique*
+*Focus sur la scène-clé, éclairée de manière dramatique - Source : Photo personnelle, avril 2025*
 
 Cette scénographie rend l’expérience à la fois contemplative et émotionnelle.
 
